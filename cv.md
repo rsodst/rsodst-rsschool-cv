@@ -1,6 +1,6 @@
 
 
-<div style="font-size:12px">**Some Person**, Phone: (555)-444-2222, Email: some@gmail.com</div>
+<font size="2">**Some Person**, Phone: (555)-444-2222, Email: some@gmail.com</font>
 
 <style>
 table th:first-of-type(1) {
