@@ -118,7 +118,7 @@ KEY SKILLS
          <td>
             <ul>
                 <li>Agile</li>
-                <li>Confluence, GoF, Design Patterns</li>
+                <li>Confluence, GoF, Design Patterns, Algorithms</li>
                 <li>Jira, SOLID, KISS</li>
                 <li>TFS, Redmine</li>
             </ul>
