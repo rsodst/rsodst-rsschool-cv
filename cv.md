@@ -57,6 +57,9 @@ KEY SKILLS
             <th>
                 Front End
             </th>
+            <th>
+                Testing
+            </th>
         </tr>
     </thead>
     <tr>
@@ -77,6 +80,12 @@ KEY SKILLS
                 <li> npm</li>
             </ul>
         </td>
+         <td>
+            <ul>
+                <li> NUnit, XUnit</li>
+                <li> Unit Tests, TDD</li>
+            </ul>
+        </td>
     </tr>
     <thead>
         <tr>
@@ -85,6 +94,9 @@ KEY SKILLS
             </th>
             <th>
                 Dev Ops
+            </th>
+             <th>
+                SDLC
             </th>
         </tr>
     </thead>
@@ -103,21 +115,7 @@ KEY SKILLS
                 <li> Base linux/windows</li>
             </ul>
         </td>
-    </tr>
-    <thead>
-        <tr>
-            <th>Testing</th>
-            <th>SDLC</th>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <ul>
-                <li> NUnit, XUnit</li>
-                <li> Unit Tests, TDD</li>
-            </ul>
-        </td>
-        <td>
+         <td>
             <ul>
                 <li>Agile</li>
                 <li>Confluence, GoF, Design Patterns</li>
