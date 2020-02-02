@@ -24,7 +24,7 @@
     </thead>
     <tr>
         <td>
-            <font size="3">Inventive Back End Developer with 3+ years of broad expertise in .NET/.NET CORE & WEB, JavaScript/ES6/ES2017 areas with willingness to learn and master Back-end Development and Web Servers Administration. Testing, DDD/TDD expert.</font>
+            <font size="3">Inventive Back End Developer with 12+ years of broad expertise in .NET/.NET CORE & WEB, JavaScript/ES6/ES2017 areas with willingness to learn and master Back-end Development and Web Servers Administration. Testing, DDD/TDD expert.</font>
         </td>
         <td>
             <ul>
