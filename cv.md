@@ -1,12 +1,11 @@
->
-<font size="2">**Some Person**, Phone: (555)-444-2222, Email: some@gmail.com</font>
+> <font size="2">**Some Person**, Phone: (555)-444-2222, Email: some@gmail.com</font>
 
 <style>
-    table th:first-of-type(1) {
+    table td:first-of-type(1) {
         width: 60%;
     }
     
-    table th:nth-of-type(2) {
+    table td:nth-of-type(2) {
         width: 45%;
         vertical-align: bottom;
     }
