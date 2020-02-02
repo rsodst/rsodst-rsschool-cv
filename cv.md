@@ -1,4 +1,4 @@
-> <font size="2">**Some Person**, Phone: (555)-444-2222, Email: some@gmail.com</font>
+> <font size="2"><b>Some Person</b>, Phone: (555)-444-2222, Email: some@gmail.com</font>
 
 <style>
     table td:first-of-type(1) {
