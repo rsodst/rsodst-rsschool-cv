@@ -54,6 +54,7 @@ Keyboard can handle additional keys with (shift/caps) mode
 CodeWars, Project Euler, LeetCode
 > I like solve tasks from codewars, example code's below.
 > Brifing : Write a function that accepts a square matrix (N x N 2D array) and returns the determinant of the matrix.
+
 ```
 function determinant(matrix) {
     if (matrix.length === 1) {
