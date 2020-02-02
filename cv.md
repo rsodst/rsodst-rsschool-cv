@@ -1,4 +1,4 @@
-> <font size="2">**Some Person**, Phone: (555)-444-2222, Email: some@gmail.com</font>
+> <font size="2">Some Person, Phone: (555)-444-2222, Email: some@gmail.com</font>
 
 <style>
     table td:first-of-type(1) {
@@ -192,17 +192,23 @@ WORK HISTORY
 
 SIDE PROJECT 
 --- 
+
 .NET Raycast Engine 
+
 > This is a simple project which raycast rendering. 
 > I developed this just for fun. 
 > I developed concrete simple game like a return to castle wolfenstein. 
 > In this game player can moving into four side, fire for
 enemy and open doors 
+
 ![raycast example](./assets/raycast.gif "Title")
 
  JS Virtual Keyboard 
- > This is virtual keyboard that can handle input directly with mouse and keyboard Keyboard can handle additional keys with (shift/caps) mode 
- > Keyboard support color indications for press/unpress keys > Keyboard support language layout 
+
+> This is virtual keyboard that can handle input directly with mouse and keyboard Keyboard can handle additional keys with (shift/caps) mode 
+> Keyboard support color indications for press/unpress keys 
+> Keyboard support language layout 
+ 
  ![raycast example](./assets/keyboard.png "Title")
  
  CodeWars, Project Euler, LeetCode 
@@ -252,6 +258,7 @@ EDUCATION
 --- 
 * Ufa State Aviation College (2012-2016) 
 * Ufa State Aviation Technical University (2016-2021) 
+
 ADDITIONAL INFORMATION 
 --- 
 * Russian Language - native, English -A1 
