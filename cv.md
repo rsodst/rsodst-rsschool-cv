@@ -12,7 +12,13 @@ table th:nth-of-type(2) {
 
 | <font size="6">**Some Person**</font>  | <font size="6" color="gray">BACK-END DEVELOPER</font> |
 |-----|------|
-| <font size="3">Inventive Back End Developer with 3+ years of broad expertise in .NET/.NET CORE & WEB, JavaScript/ES6/ES2017 areas with willingness to learn and master Back-end Development and Web Servers Administration. Testing, DDD/TDD expert.</font> | <ul><li><b>Phone: </b>(444)-555-4444</li><li><b>Email: <b>some@gmail.com</li><li><b>Telegram: </b>@anonymous</li><li><b>GitHub: </b><a href="https://github.comrsodst">@rsodst</a></li></ul> |
+| <font size="3">Inventive Back End Developer with 3+ years of broad expertise in .NET/.NET CORE & WEB, JavaScript/ES6/ES2017 areas with willingness to learn and master Back-end Development and Web Servers Administration. Testing, DDD/TDD expert.</font> | 
+<ul>
+<li><b>Phone: </b>(444)-555-4444</li>
+<li><b>Email: <b>some@gmail.com</li>
+<li><b>Telegram: </b>@anonymous</li>
+<li><b>GitHub: </b><a href="https://github.comrsodst">@rsodst</a></li>
+</ul> |
 
 KEY SKILLS
 ---
@@ -106,3 +112,4 @@ ADDITIONAL INFORMATION
 * Not ready for relocation
 * I am self-organized and very motivated to become a fullstack developer. I learn JS,TS and also doing tasks on codewars everyday. I’m ver interested in this course and job in future.
 * I known the Basic Computer Science, algorithms and data structures, went the course of web application development, i also learn JS on learn.javascript and do tasks on codewars.
+* My wishes is learn Core JS and upgrade my knowledge and be better in front-end
