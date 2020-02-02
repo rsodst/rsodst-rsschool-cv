@@ -1,5 +1,3 @@
-<font size="2">**Some Person**, Phone: (555)-444-2222, Email: some@gmail.com</font>
-
 <style>
 table th:first-of-type(1) {
     width: 60%;
@@ -9,6 +7,10 @@ table th:nth-of-type(2) {
     vertical-align: bottom;
 }
 </style>
+
+<div style="font-size:12px">**Some Person**, Phone: (555)-444-2222, Email: some@gmail.com</div>
+
+
 
 | <font size="6">**Some Person**</font>  | <font size="6" color="gray">BACK-END DEVELOPER</font> |
 |-----|------|
