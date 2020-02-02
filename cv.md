@@ -29,9 +29,30 @@
         </td>
         <td>
             <ul>
-                <li><b>Phone: </b>(444)-555-4444</li>
-                <li><b>Email: <b>some@gmail.com</li><li><b>Telegram: </b>@anonymous</li>
-                <li><b>GitHub: </b><a href="https://github.comrsodst">@rsodst</a></li>
+                <li>
+                <b>
+                Phone: 
+                </b>
+                (444)-555-4444
+                </li>
+                <li>
+                <b>
+                Email: 
+                <b>
+                some@gmail.com
+                </li>
+                <li>
+                <b>
+                Telegram:
+                </b>
+                @anonymous
+                </li>
+                <li>
+                <b>
+                GitHub:
+                </b>
+                <a href="https://github.comrsodst">@rsodst</a>
+                </li>
             </ul>
         </td>
     </tr>
