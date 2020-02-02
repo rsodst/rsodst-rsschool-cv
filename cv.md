@@ -1,4 +1,4 @@
-<font size="2">**Rinat Safiullin**, Phone: (967)-747-2275, Email: rsodst@gmail.com</font>
+<font size="2">**Some Person**, Phone: (555)-444-2222, Email: some@gmail.com</font>
 
 <style>
 table th:first-of-type(1) {
@@ -10,55 +10,9 @@ table th:nth-of-type(2) {
 }
 </style>
 
-<!-- <ul>
-<li><b>Phone: </b>(967)-747-2275</li>
-<li><b>Email: <b>rsodst@gmail.com</li>
-<li><b>Telegram: </b>@4ar0deus</li>
-<li><b>GitHub: </b><a href="https://github.comrsodst">@rsodst</a></li>
-</ul> -->
-
-| <font size="6">**RINAT SAFIULLIN**</font>  | <font size="6" color="gray">BACK-END DEVELOPER</font> |
+| <font size="6">**Some Person**</font>  | <font size="6" color="gray">BACK-END DEVELOPER</font> |
 |-----|------|
-| <font size="3">Inventive Back End Developer with 3+ years of broad expertise in .NET/.NET CORE & WEB, JavaScript/ES6/ES2017 areas with willingness to learn and master Back-end Development and Web Servers Administration. Testing, DDD/TDD expert.</font> | <ul><li><b>Phone: </b>(967)-747-2275</li><li><b>Email: <b>rsodst@gmail.com</li><li><b>Telegram: </b>@4ar0deus</li><li><b>GitHub: </b><a href="https://github.comrsodst">@rsodst</a></li></ul> |
-
-<!-- BACKEND <ul>
-<li>.NET/NET CORE</li>
-<li>C# 7.0, CLR/CLS,BCL</li>
-<li>Rest API, GraphQL,</li>
-<li>EF,EF Core ORM</li>
-<li>XML (XSLT,XPATH), JSON</li>
-</ul> -->
-
-<!-- DATABASE <ul>
-<li> MS SQL Server</li>
-<li> PostgreeSql, Sqlite</li>
-<li> Elastic,Elastic.Net </li>
-</ul> -->
-
-<!-- FRONTEND <ul>
-<li> ASP.NET MVC, Blazor, Angular</li>
-<li> JavaScript, ES6, TypeScript </li>
-<li> HTML/CSS, scss</li>
-<li> npm </li>
-</ul> -->
-
-<!-- DevOps <ul>
-<li> Docker </li>
-<li> GitHub, GitLab </li>
-<li> Base linux/windows</li>
-</ul> -->
-
-<!-- TESTING <ul>
-<li> NUnit, XUnit</li>
-<li> Unit Tests, TDD</li>
-</ul> -->
-
-<!-- SDLC <ul>
-<li>Agile</li>
-<li>Confluence, GoF, Design Patterns</li>
-<li>Jira, SOLID, KISS</li>
-<li>TFS, Redmine</li>
-</ul> -->
+| <font size="3">Inventive Back End Developer with 3+ years of broad expertise in .NET/.NET CORE & WEB, JavaScript/ES6/ES2017 areas with willingness to learn and master Back-end Development and Web Servers Administration. Testing, DDD/TDD expert.</font> | <ul><li><b>Phone: </b>(444)-555-4444</li><li><b>Email: <b>some@gmail.com</li><li><b>Telegram: </b>@anonymous</li><li><b>GitHub: </b><a href="https://github.comrsodst">@rsodst</a></li></ul> |
 
 KEY SKILLS
 ---
@@ -74,50 +28,9 @@ WORK HISTORY
 
 | Position | Company / Tech | Experience |
 |-|-|-|
-| <p>Backend Developer</p><ul><li>Maintenance and developing backend application, writing business logic.</li><li>Integration with external services (offline analytics, payment gates), develop subsystems.</li></ul> | <p>Pomogatel.Ru (Ufa)</p><ul><li>ASP.NET,NET.CORE</li><li>Elastic/Elastic.NET</li><li>MSSQL</li><li>SOLID,DDD</li><li>Microservices approach</li><li>Message bus, rest</li></ul> | (01/2017 - Current time) |
-| <p>Software Engineer</p><ul><li>Develop software for remote control and administration technical system for virtual reality attraction.</li><li>Develop game assets for rat server integration</li><li>Develop mobile client for remote control</li></ul> | <p>IVSystems (Ufa) </p><ul><li>C#/Unity3d</li><li>powershell,WinApi</li></ul> | (09/2015 - 10/2016) |
-| <p>Intern software engineer</p><ul><li>I got into the cluster while studying at college. Development software for virtual reality systems (c# logic for unity3d).</li><li>Integration several modules (kinect avatar,etc) with current systems.</li><li>With completed software we wined the Imagine Cup 2014</li></ul>| <p>CAC(electronics) (Ufa) </p><ul><li>C++,C#</li><li>WinForms, Sockets, WinApi</li><li>Unity3d, VR/AR</li></ul> | (11/2013 - 08/2014) |
-
-<!-- CAC(electorincs) (11/2013 - 08/2014)
-Intern software engineer
-
-* I got into the cluster while studying at college.
-Development software for virtual reality systems (c# logic for unity3d). 
-* Integration several modules (kinect avatar,etc) with current systems.
-* With completed software we wined the Imagine Cup 2014
-
-<ul>
-<li>C++,C#</li>
-<li>WinForms, Sockets, WinApi</li>
-<li>Unity3d, VR/AR</li>
-</ul> -->
-
-<!-- IVSystems (09/2015 - 10/2016)
-Software Engineer
-
-Develop software for remote control and administration technical system for virtual reality attraction.
-Develop game assets for rat server integration
-Develop mobile client for remote control
-
-<ul>
-<li>C#/Unity3d</li>
-<li>powershell,WinApi</li>
-</ul> -->
-
-<!-- Pomogatel.Ru (01/2017 - Current time)
-
-Backend Developer
-
-Maintenance and developing backend application, writing business logic. Integration with external services (offline analytics, payment gates), develop subsystems.
-
-<ul>
-<li>ASP.NET,NET.CORE</li>
-<li>Elastic/Elastic.NET</li>
-<li>MSSQL</li>
-<li>SOLID,DDD</li>
-<li>Microservices approach</li>
-<li>Message bus, rest</li>
-</ul> -->
+| <p>Backend Developer</p><ul><li>Maintenance and developing backend application, writing business logic.</li><li>Integration with external services (offline analytics, payment gates), develop subsystems.</li></ul> | <p>****** (Ufa)</p><ul><li>ASP.NET,NET.CORE</li><li>Elastic/Elastic.NET</li><li>MSSQL</li><li>SOLID,DDD</li><li>Microservices approach</li><li>Message bus, rest</li></ul> | (01/2017 - Current time) |
+| <p>Software Engineer</p><ul><li>Develop software for remote control and administration technical system for virtual reality attraction.</li><li>Develop game assets for rat server integration</li><li>Develop mobile client for remote control</li></ul> | <p>****** (Ufa) </p><ul><li>C#/Unity3d</li><li>powershell,WinApi</li></ul> | (09/2015 - 10/2016) |
+| <p>Intern software engineer</p><ul><li>I got into the cluster while studying at college. Development software for virtual reality systems (c# logic for unity3d).</li><li>Integration several modules (kinect avatar,etc) with current systems.</li><li>With completed software we wined the Imagine Cup 2014</li></ul>| <p>****** (Ufa) </p><ul><li>C++,C#</li><li>WinForms, Sockets, WinApi</li><li>Unity3d, VR/AR</li></ul> | (11/2013 - 08/2014) |
 
 SIDE PROJECT
 ---
